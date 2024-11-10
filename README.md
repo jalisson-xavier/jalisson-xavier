@@ -27,7 +27,7 @@ Sou profissional de TI com 18 anos de experiência, com foco em análise de sist
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jalisson-xavier&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jalisson-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="jalisson-xavier" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalisson-xavier&label=Profile%20views&color=0e75b6&style=flat" alt="jalisson-xavier" /> </p> -->
 
 
 
